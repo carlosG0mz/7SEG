@@ -26,13 +26,13 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "OT1"
-  uo[1]: "OT2"
-  uo[2]: "OT3"
-  uo[3]: "OT4"
-  uo[4]: "OT5"
-  uo[5]: "OT6"
-  uo[6]: "OT7"
+  uo[0]: "O1"
+  uo[1]: "O2"
+  uo[2]: "O3"
+  uo[3]: "O4"
+  uo[4]: "O5"
+  uo[5]: "O6"
+  uo[6]: "O7"
   uo[7]: ""
 
   # Bidirectional pins
