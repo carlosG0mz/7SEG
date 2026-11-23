@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-THIS IS A PROGRAM FOR SCREAM A 7 SEGMENTS
+THIS IS A PROGRAM FOR SCREEN A 7 SEGMENTS
 
 ## How to test
 
